@@ -11,7 +11,7 @@
 Add the following to your project's `Packages/manifest.json` under `"dependencies"`:
 
 ```json
-"com.google.external-dependency-manager": "https://github.com/funix-public-registry/com.google.external-dependency-manager.git#1.2.186",
+"com.google.external-dependency-manager": "https://github.com/funix-public-registry/com.google.external-dependency-manager.git#1.2.186"
 ```
 
 `com.google.external-dependency-manager` (EDM4U) is required — it resolves the
